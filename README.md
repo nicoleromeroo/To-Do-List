@@ -45,7 +45,7 @@ Edit
 
 ## Screenshots
 
-<img src="screenshot.png">
+![To-Do App Screenshot](images/screenshot.png)
 
 ---
 
